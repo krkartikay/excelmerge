@@ -7,8 +7,8 @@ Merge rows in two excel files, with exact or fuzzy-matching algorithms.
 1. GUI for easy use
 2. Fuzzy matching with various algorithms, to match data with typos or from different sources.
 3. Join types - Outer Join, Left join and Inner join supported.
-4. Export to Excel
-5. Shows warning is multiple rows match with fuzzy matching.
+5. Shows warning if multiple rows match with fuzzy matching.
+4. Export to Excel. (`*.xslx`)
 
 ## Example
 
