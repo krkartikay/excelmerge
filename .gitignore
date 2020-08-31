@@ -21,3 +21,11 @@ $RECYCLE.BIN/
 # =========================
 # Operating System Files
 # =========================
+
+build/
+dist/
+*.xlsx
+*.pyo
+__pycache__
+*.spec
+
