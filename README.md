@@ -12,7 +12,7 @@ Merge rows in two excel files, with exact or fuzzy-matching algorithms.
 
 ## Example
 
-![TODO: add image]()
+![Example screenshot with two files](https://i.imgur.com/OyIosSS.png)
 
 ## Installation
 
