@@ -30,3 +30,12 @@ Requirements:
 2. PyQt5 `pip install PyQt5`
 3. OpenPyXL `pip install openpyxl`
 4. FuzzyWuzzy `pip install fuzzywuzzy`
+
+
+## Known Issues
+
+Feel free to open a PR!
+
+1. Merging large files makes the UI slow.
+2. Exe is too big and takes time to load.
+3. Fuzzy algorithms could be improved / expanded.
